@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kensac/Leetcode-v2/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/kensac/Leetcode-v2/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/kensac/Leetcode-v2/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/kensac/Leetcode-v2/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kensac/Leetcode-v2/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kensac/Leetcode-v2/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/kensac/Leetcode-v2/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/kensac/Leetcode-v2/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
