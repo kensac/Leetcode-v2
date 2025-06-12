@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kensac/Leetcode-v2/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/kensac/Leetcode-v2/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kensac/Leetcode-v2/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kensac/Leetcode-v2/tree/master/0217-contains-duplicate) |
 ## Math
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kensac/Leetcode-v2/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kensac/Leetcode-v2/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kensac/Leetcode-v2/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/kensac/Leetcode-v2/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kensac/Leetcode-v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kensac/Leetcode-v2/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/kensac/Leetcode-v2/tree/master/0344-reverse-string) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/kensac/Leetcode-v2/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kensac/Leetcode-v2/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
