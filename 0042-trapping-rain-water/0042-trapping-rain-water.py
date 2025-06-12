@@ -7,7 +7,6 @@ class Solution:
         for i in range(len(right_max) - 2, -1, -1):
             right_max[i] = max(right_max[i + 1], height[i + 1])
         
-        print(left_max, right_max)
         res = 0
         for i in range(len(height)):
             to_add = min(left_max[i], right_max[i]) - height[i]
