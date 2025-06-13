@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kensac/Leetcode-v2/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kensac/Leetcode-v2/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kensac/Leetcode-v2/tree/master/0217-contains-duplicate) |
+| [0682-baseball-game](https://github.com/kensac/Leetcode-v2/tree/master/0682-baseball-game) |
 | [0917-boats-to-save-people](https://github.com/kensac/Leetcode-v2/tree/master/0917-boats-to-save-people) |
 | [2058-concatenation-of-array](https://github.com/kensac/Leetcode-v2/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/kensac/Leetcode-v2/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/kensac/Leetcode-v2/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kensac/Leetcode-v2/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kensac/Leetcode-v2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/kensac/Leetcode-v2/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
