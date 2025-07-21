@@ -14,6 +14,7 @@ class Solution:
         # The idea is to have the parent of every node all the way to the top
         # then using the target nodes, store all the parents we see for the first
         # and use the first parent of the other nodes
+        # O(n), O(n)
         parent_map = {}
         def parent_mapper(node, parent):
             if not node:
