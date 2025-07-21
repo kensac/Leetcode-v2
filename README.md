@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kensac/Leetcode-v2/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/kensac/Leetcode-v2/tree/master/0682-baseball-game) |
 | [0917-boats-to-save-people](https://github.com/kensac/Leetcode-v2/tree/master/0917-boats-to-save-people) |
+| [1046-max-consecutive-ones-iii](https://github.com/kensac/Leetcode-v2/tree/master/1046-max-consecutive-ones-iii) |
 | [2058-concatenation-of-array](https://github.com/kensac/Leetcode-v2/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kensac/Leetcode-v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1046-max-consecutive-ones-iii](https://github.com/kensac/Leetcode-v2/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kensac/Leetcode-v2/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/kensac/Leetcode-v2/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/kensac/Leetcode-v2/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
