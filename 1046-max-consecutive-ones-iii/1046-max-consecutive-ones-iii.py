@@ -4,7 +4,6 @@ class Solution:
         l = r = 0
 
         while l <= r and r < len(nums):
-            print(l, nums[l], r, nums[r], k, res)
             if nums[r] == 0:
                 k -= 1
             while k < 0:
