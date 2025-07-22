@@ -5,33 +5,23 @@
 #         self.left = None
 #         self.right = None
 
-
 class Solution:
-    def lowestCommonAncestor(
-        self, root: "TreeNode", p: "TreeNode", q: "TreeNode"
-    ) -> "TreeNode":
+    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        self.res = None
 
-        # The idea is to have the parent of every node all the way to the top
-        # then using the target nodes, store all the parents we see for the first
-        # and use the first parent of the other nodes
-        # O(n), O(n)
-        parent_map = {}
-        def parent_mapper(node, parent):
+        def recurse(node):
             if not node:
-                return
-            parent_map[node] = parent
-            parent_mapper(node.left, node)
-            parent_mapper(node.right, node)
-        parent_mapper(root, None)
-
-        seen = set()
-        cur = q
-        while cur:
-            seen.add(cur)
-            cur = parent_map[cur]
-
-        cur = p
-        while cur and cur not in seen:
-            cur = parent_map[cur]
-
-        return cur
+                return False
+            
+            left = recurse(node.left)
+            right = recurse(node.right)
+            if (left and right) or ((left or right) and (node == p or node == q)):
+                self.res = node
+            if node == p or node == q:
+                return True
+            return left or right
+        
+        if root == q or root == q:
+            return root
+        recurse(root)
+        return self.res
