@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kensac/Leetcode-v2/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/kensac/Leetcode-v2/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kensac/Leetcode-v2/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/kensac/Leetcode-v2/tree/master/0168-excel-sheet-column-title) |
@@ -162,11 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kensac/Leetcode-v2/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kensac/Leetcode-v2/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kensac/Leetcode-v2/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kensac/Leetcode-v2/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/kensac/Leetcode-v2/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/kensac/Leetcode-v2/tree/master/0394-decode-string) |
 ## Heap (Priority Queue)
