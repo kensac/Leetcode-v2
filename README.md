@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kensac/Leetcode-v2/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kensac/Leetcode-v2/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kensac/Leetcode-v2/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kensac/Leetcode-v2/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kensac/Leetcode-v2/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/kensac/Leetcode-v2/tree/master/0057-insert-interval) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kensac/Leetcode-v2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kensac/Leetcode-v2/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kensac/Leetcode-v2/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/kensac/Leetcode-v2/tree/master/0168-excel-sheet-column-title) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kensac/Leetcode-v2/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kensac/Leetcode-v2/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
