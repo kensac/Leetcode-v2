@@ -16,7 +16,6 @@ class Solution:
                     indegree[char] += 1
 
         queue = deque([key for key, value in graph.items() if indegree[key] == 0])
-        print(graph, subs, indegree, queue)
         while queue:
             cur = queue.popleft()
             text = text.replace(f"%{cur}%", subs[cur])
