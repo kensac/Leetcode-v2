@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/kensac/Leetcode-v2/tree/master/0547-number-of-provinces) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Binary Tree
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kensac/Leetcode-v2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kensac/Leetcode-v2/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/kensac/Leetcode-v2/tree/master/0547-number-of-provinces) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Two Pointers
 |  |
@@ -216,11 +218,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kensac/Leetcode-v2/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/kensac/Leetcode-v2/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kensac/Leetcode-v2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kensac/Leetcode-v2/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/kensac/Leetcode-v2/tree/master/0547-number-of-provinces) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Topological Sort
 |  |
