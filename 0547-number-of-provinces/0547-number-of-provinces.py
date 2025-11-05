@@ -28,6 +28,6 @@ class Solution:
                 if isConnected[i][j] == 1:
                     union(i, j)
 
-        print(parent)
-
-        return len(set([find(i) for i in range(len(isConnected))]))
+        return len(
+            set([find(i) for i in range(len(isConnected))])
+        )  # Make sure count is correct because this can have intermedicate parents
