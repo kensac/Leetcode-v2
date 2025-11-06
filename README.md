@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/kensac/Leetcode-v2/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/kensac/Leetcode-v2/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/kensac/Leetcode-v2/tree/master/0680-valid-palindrome-ii) |
+| [1250-longest-common-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/kensac/Leetcode-v2/tree/master/1894-merge-strings-alternately) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Simulation
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kensac/Leetcode-v2/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/kensac/Leetcode-v2/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/kensac/Leetcode-v2/tree/master/0747-min-cost-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/1250-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
