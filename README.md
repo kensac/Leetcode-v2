@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kensac/Leetcode-v2/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kensac/Leetcode-v2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kensac/Leetcode-v2/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kensac/Leetcode-v2/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/kensac/Leetcode-v2/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/kensac/Leetcode-v2/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/kensac/Leetcode-v2/tree/master/0344-reverse-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kensac/Leetcode-v2/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/kensac/Leetcode-v2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kensac/Leetcode-v2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kensac/Leetcode-v2/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kensac/Leetcode-v2/tree/master/0062-unique-paths) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kensac/Leetcode-v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kensac/Leetcode-v2/tree/master/0064-minimum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kensac/Leetcode-v2/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
