@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kensac/Leetcode-v2/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/kensac/Leetcode-v2/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kensac/Leetcode-v2/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kensac/Leetcode-v2/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/kensac/Leetcode-v2/tree/master/0168-excel-sheet-column-title) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kensac/Leetcode-v2/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kensac/Leetcode-v2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kensac/Leetcode-v2/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/kensac/Leetcode-v2/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kensac/Leetcode-v2/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kensac/Leetcode-v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kensac/Leetcode-v2/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kensac/Leetcode-v2/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kensac/Leetcode-v2/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
