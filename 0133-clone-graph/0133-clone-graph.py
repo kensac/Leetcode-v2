@@ -19,6 +19,7 @@ class Solution:
             old_to_new[cur] = Node(cur.val)
             for neighbor in cur.neighbors:
                 if neighbor not in old_to_new:
+                    old_to_new[neighbor] = Node(neighbor.val)
                     queue.append(neighbor)
         
         for key, value in old_to_new.items():
