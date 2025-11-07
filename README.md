@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/kensac/Leetcode-v2/tree/master/0261-graph-valid-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kensac/Leetcode-v2/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/kensac/Leetcode-v2/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Binary Tree
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/kensac/Leetcode-v2/tree/master/0261-graph-valid-tree) |
 | [0322-coin-change](https://github.com/kensac/Leetcode-v2/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/kensac/Leetcode-v2/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/kensac/Leetcode-v2/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/1036-rotting-oranges) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kensac/Leetcode-v2/tree/master/0130-surrounded-regions) |
 | [0261-graph-valid-tree](https://github.com/kensac/Leetcode-v2/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/kensac/Leetcode-v2/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/kensac/Leetcode-v2/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kensac/Leetcode-v2/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/kensac/Leetcode-v2/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/kensac/Leetcode-v2/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/kensac/Leetcode-v2/tree/master/0684-redundant-connection) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Topological Sort
 |  |
