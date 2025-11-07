@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kensac/Leetcode-v2/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/kensac/Leetcode-v2/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/kensac/Leetcode-v2/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/kensac/Leetcode-v2/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/kensac/Leetcode-v2/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/kensac/Leetcode-v2/tree/master/0917-boats-to-save-people) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kensac/Leetcode-v2/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Binary Tree
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/kensac/Leetcode-v2/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/kensac/Leetcode-v2/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Two Pointers
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kensac/Leetcode-v2/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/kensac/Leetcode-v2/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kensac/Leetcode-v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kensac/Leetcode-v2/tree/master/0064-minimum-path-sum) |
+| [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
 | ------- |
