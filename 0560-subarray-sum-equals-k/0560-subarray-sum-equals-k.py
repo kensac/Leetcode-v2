@@ -15,6 +15,6 @@ class Solution:
             cur_sum += num
             if cur_sum - k in sum_map:
                 count += sum_map[cur_sum - k]
-            sum_map[cur_sum] = sum_map.get(cur_sum, 0) + 1
+            sum_map[cur_sum] = sum_map.get(cur_sum,0) + 1
 
         return count
