@@ -1,7 +1,5 @@
 class Solution:
     def canSeePersonsCount(self, heights: List[int]) -> List[int]:
-        [10]
-        [2,2,1,0]
         res = [0] * len(heights)
         stack = []
         for i, height in enumerate(heights):
