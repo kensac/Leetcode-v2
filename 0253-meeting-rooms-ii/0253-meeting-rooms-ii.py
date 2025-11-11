@@ -1,15 +1,20 @@
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
-        intervals.sort()
-
-        heap = []
-        max_heap_size = 0
+        events = []
 
         for start, end in intervals:
-            while heap and start >= heap[0]:
-                heappop(heap)
-            
-            heappush(heap, end)
-            max_heap_size = max(max_heap_size, len(heap))
+            events.append((start, 1))
+            events.append((end, -1))
         
-        return max_heap_size
+        available = 0
+        events.sort()
+        for time, event in events:
+            if event == 1:
+                if available == 0:
+                    available += 1
+                if available != 0:
+                    available -= 1
+            elif event == -1:
+                available += 1
+        return available
+                
