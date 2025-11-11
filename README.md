@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kensac/Leetcode-v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kensac/Leetcode-v2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kensac/Leetcode-v2/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kensac/Leetcode-v2/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kensac/Leetcode-v2/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kensac/Leetcode-v2/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/kensac/Leetcode-v2/tree/master/0063-unique-paths-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kensac/Leetcode-v2/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/kensac/Leetcode-v2/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/kensac/Leetcode-v2/tree/master/2058-concatenation-of-array) |
 ## Sorting
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kensac/Leetcode-v2/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/kensac/Leetcode-v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kensac/Leetcode-v2/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/kensac/Leetcode-v2/tree/master/0130-surrounded-regions) |
