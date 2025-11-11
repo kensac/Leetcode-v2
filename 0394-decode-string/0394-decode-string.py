@@ -2,22 +2,27 @@ class Solution:
     def decodeString(self, s: str) -> str:
         stack = []
 
-        for char in s:
-            if char != "]":
-                stack.append(char)
-            else:
-                string_to_mul = []
-                while stack and stack[-1] != "[":
-                    string_to_mul = [stack.pop()] + string_to_mul
-                # Popping the "["
-                stack.pop()
-                # deal with the numbers
-                num_to_mul = ""
-                while stack and stack[-1].isdigit():
-                    num_to_mul = stack.pop() + num_to_mul
-
-                string_to_mul = string_to_mul * int(num_to_mul)
-
-                stack.extend(string_to_mul)
-
+        cur = 0
+        while cur < len(s):
+            print(stack)
+            if s[cur] == "[":
+                stack.append(s[cur])
+                cur += 1
+            elif s[cur].isalpha():
+                stack.append(s[cur])
+                cur += 1
+            elif s[cur].isnumeric():
+                temp = ""
+                while s[cur].isnumeric():
+                    temp += s[cur]
+                    cur += 1
+                stack.append(int(temp))
+            elif s[cur] == "]":
+                temp = ""
+                while stack[-1] != "[":
+                    temp = stack.pop() + temp
+                stack.pop()  # "["
+                num = stack.pop()
+                stack.append(temp * num)
+                cur += 1
         return "".join(stack)
