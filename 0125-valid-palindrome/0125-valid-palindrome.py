@@ -3,7 +3,7 @@ class Solution:
         left = 0
         right = len(s) -1
 
-        while left <= right:
+        while left < right:
             while left < right and not s[left].isalnum():
                 left += 1
             while left < right and not s[right].isalnum():
