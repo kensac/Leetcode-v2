@@ -5,7 +5,7 @@ class Solution:
         for start, end in intervals:
             events.append((start, 1))
             events.append((end, -1))
-        
+
         available = 0
         events.sort()
         for time, event in events:
@@ -17,4 +17,3 @@ class Solution:
             elif event == -1:
                 available += 1
         return available
-                
