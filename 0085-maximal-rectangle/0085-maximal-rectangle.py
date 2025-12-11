@@ -21,6 +21,9 @@ class Solution:
                     cur_max = dp[i][j]
                     for offset in range(i, -1, -1):
                         diff = i - offset
+                        if dp[i - diff][j] == 0:
+                            break
                         cur_max = min(dp[i - diff][j], cur_max)
                         res = max(res, cur_max * (diff + 1))
+
         return res
