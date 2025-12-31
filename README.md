@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kensac/Leetcode-v2/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/kensac/Leetcode-v2/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/kensac/Leetcode-v2/tree/master/0721-accounts-merge) |
+| [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Math
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/kensac/Leetcode-v2/tree/master/0253-meeting-rooms-ii) |
 | [0744-network-delay-time](https://github.com/kensac/Leetcode-v2/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kensac/Leetcode-v2/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
 ## Quickselect
 |  |
 | ------- |
@@ -384,4 +386,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kensac/Leetcode-v2/tree/master/0292-nim-game) |
+## Design
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
+## Data Stream
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
+## Ordered Set
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
