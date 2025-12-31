@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/kensac/Leetcode-v2/tree/master/1046-max-consecutive-ones-iii) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/kensac/Leetcode-v2/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kensac/Leetcode-v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/kensac/Leetcode-v2/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2058-concatenation-of-array](https://github.com/kensac/Leetcode-v2/tree/master/2058-concatenation-of-array) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/kensac/Leetcode-v2/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kensac/Leetcode-v2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/1036-rotting-oranges) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kensac/Leetcode-v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/kensac/Leetcode-v2/tree/master/1492-time-needed-to-inform-all-employees) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Two Pointers
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kensac/Leetcode-v2/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/1036-rotting-oranges) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kensac/Leetcode-v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Backtracking
 |  |
 | ------- |
