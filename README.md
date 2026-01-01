@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/kensac/Leetcode-v2/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kensac/Leetcode-v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/kensac/Leetcode-v2/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1730-shortest-path-to-get-food](https://github.com/kensac/Leetcode-v2/tree/master/1730-shortest-path-to-get-food) |
 | [2058-concatenation-of-array](https://github.com/kensac/Leetcode-v2/tree/master/2058-concatenation-of-array) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Hash Table
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/1036-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kensac/Leetcode-v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/kensac/Leetcode-v2/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1730-shortest-path-to-get-food](https://github.com/kensac/Leetcode-v2/tree/master/1730-shortest-path-to-get-food) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Two Pointers
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kensac/Leetcode-v2/tree/master/0778-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/1036-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kensac/Leetcode-v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1730-shortest-path-to-get-food](https://github.com/kensac/Leetcode-v2/tree/master/1730-shortest-path-to-get-food) |
 ## Backtracking
 |  |
 | ------- |
