@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/kensac/Leetcode-v2/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1730-shortest-path-to-get-food](https://github.com/kensac/Leetcode-v2/tree/master/1730-shortest-path-to-get-food) |
 | [2058-concatenation-of-array](https://github.com/kensac/Leetcode-v2/tree/master/2058-concatenation-of-array) |
+| [2158-amount-of-new-area-painted-each-day](https://github.com/kensac/Leetcode-v2/tree/master/2158-amount-of-new-area-painted-each-day) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Hash Table
 |  |
@@ -427,4 +428,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
+| [2158-amount-of-new-area-painted-each-day](https://github.com/kensac/Leetcode-v2/tree/master/2158-amount-of-new-area-painted-each-day) |
+## Segment Tree
+|  |
+| ------- |
+| [2158-amount-of-new-area-painted-each-day](https://github.com/kensac/Leetcode-v2/tree/master/2158-amount-of-new-area-painted-each-day) |
 <!---LeetCode Topics End-->
