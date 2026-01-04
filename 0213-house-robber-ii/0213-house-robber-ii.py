@@ -1,15 +1,29 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
+        def rob_og(nums: List[int]) -> int:
+            "prev_one need to be initialzied to the max value of 0 and 1 to handle skips"
+            if len(nums) == 0:
+                return 0
+            
+            if len(nums) == 1:
+                return nums[0]
+            prev_two = nums[0]
+            prev_one = max(nums[1], nums[0])
+            for i in range(2, len(nums)):
+                (
+                    prev_one,
+                    prev_two,
+                ) = (
+                    max(prev_one, prev_two + nums[i]),
+                    prev_one,
+                )
+
+            return max(prev_one, prev_two)
+
         if len(nums) == 0:
             return 0
+        
         if len(nums) == 1:
             return nums[0]
-
-        def robber(houses):
-            prev_one = 0
-            prev_two = 0
-            for val in houses:
-                prev_one, prev_two = max(prev_one, prev_two + val), prev_one
-            return prev_one
-
-        return max(robber(nums[1:].copy()), robber(nums[:-1]))
+        
+        return max(rob_og(nums[1:]), rob_og(nums[:-1]))
