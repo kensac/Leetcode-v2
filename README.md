@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kensac/Leetcode-v2/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/kensac/Leetcode-v2/tree/master/0228-summary-ranges) |
 | [0253-meeting-rooms-ii](https://github.com/kensac/Leetcode-v2/tree/master/0253-meeting-rooms-ii) |
+| [0271-encode-and-decode-strings](https://github.com/kensac/Leetcode-v2/tree/master/0271-encode-and-decode-strings) |
 | [0300-longest-increasing-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kensac/Leetcode-v2/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/0334-increasing-triplet-subsequence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kensac/Leetcode-v2/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/kensac/Leetcode-v2/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kensac/Leetcode-v2/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/kensac/Leetcode-v2/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/kensac/Leetcode-v2/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/kensac/Leetcode-v2/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/kensac/Leetcode-v2/tree/master/0647-palindromic-substrings) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0271-encode-and-decode-strings](https://github.com/kensac/Leetcode-v2/tree/master/0271-encode-and-decode-strings) |
 | [0729-my-calendar-i](https://github.com/kensac/Leetcode-v2/tree/master/0729-my-calendar-i) |
 | [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
 ## Data Stream
