@@ -1,5 +1,6 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        # We can also use a heap but only keep top k largest that will make the O(nlogk) which is lesser than nlogn when k < n, however when k == n we can just return everything bringing the time to O(1) and therfore still lower
         counter = Counter(nums)
         buckets = [[] for _ in range(len(nums) + 1)]
         for key, value in counter.items():
