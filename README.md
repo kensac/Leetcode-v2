@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kensac/Leetcode-v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/kensac/Leetcode-v2/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/kensac/Leetcode-v2/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/kensac/Leetcode-v2/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kensac/Leetcode-v2/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kensac/Leetcode-v2/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kensac/Leetcode-v2/tree/master/0054-spiral-matrix) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kensac/Leetcode-v2/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/kensac/Leetcode-v2/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/kensac/Leetcode-v2/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kensac/Leetcode-v2/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kensac/Leetcode-v2/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kensac/Leetcode-v2/tree/master/0070-climbing-stairs) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kensac/Leetcode-v2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kensac/Leetcode-v2/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/kensac/Leetcode-v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kensac/Leetcode-v2/tree/master/0064-minimum-path-sum) |
