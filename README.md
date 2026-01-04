@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kensac/Leetcode-v2/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kensac/Leetcode-v2/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kensac/Leetcode-v2/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kensac/Leetcode-v2/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/kensac/Leetcode-v2/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/kensac/Leetcode-v2/tree/master/0721-accounts-merge) |
 | [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/kensac/Leetcode-v2/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/kensac/Leetcode-v2/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/kensac/Leetcode-v2/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/kensac/Leetcode-v2/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kensac/Leetcode-v2/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/kensac/Leetcode-v2/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/kensac/Leetcode-v2/tree/master/0647-palindromic-substrings) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kensac/Leetcode-v2/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kensac/Leetcode-v2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kensac/Leetcode-v2/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kensac/Leetcode-v2/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/kensac/Leetcode-v2/tree/master/0253-meeting-rooms-ii) |
 | [0721-accounts-merge](https://github.com/kensac/Leetcode-v2/tree/master/0721-accounts-merge) |
 | [0917-boats-to-save-people](https://github.com/kensac/Leetcode-v2/tree/master/0917-boats-to-save-people) |
