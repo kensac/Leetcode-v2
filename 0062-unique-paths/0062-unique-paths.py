@@ -1,13 +1,16 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        grid = [[0 for _ in range(n)] for _ in range(m)]
-        grid[0][0] = 1
+        grid = [[0 for _ in range(m)] for _ in range(n)]
 
-        for i in range(m):
-            for j in range(n):
+        for i in range(n):
+            for j in range(m):
                 if i == 0 and j == 0:
-                    continue
-                top = grid[i - 1][j] if i > 0 else 0
-                left = grid[i][j - 1] if j > 0 else 0
-                grid[i][j] = top + left
-        return grid[m - 1][n - 1]
+                    grid[i][j] = 1
+                elif i == 0:
+                    grid[i][j] = grid[i][j - 1]
+                elif j == 0:
+                    grid[i][j] = grid[i - 1][j]
+                else:
+                    grid[i][j] = grid[i][j - 1] + grid[i - 1][j]
+        
+        return grid[n - 1][m - 1]
