@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kensac/Leetcode-v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kensac/Leetcode-v2/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kensac/Leetcode-v2/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/kensac/Leetcode-v2/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/kensac/Leetcode-v2/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kensac/Leetcode-v2/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kensac/Leetcode-v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kensac/Leetcode-v2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kensac/Leetcode-v2/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/kensac/Leetcode-v2/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kensac/Leetcode-v2/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/kensac/Leetcode-v2/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/kensac/Leetcode-v2/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kensac/Leetcode-v2/tree/master/0133-clone-graph) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kensac/Leetcode-v2/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/kensac/Leetcode-v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kensac/Leetcode-v2/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/kensac/Leetcode-v2/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/kensac/Leetcode-v2/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kensac/Leetcode-v2/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kensac/Leetcode-v2/tree/master/0200-number-of-islands) |
