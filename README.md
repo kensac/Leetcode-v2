@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/kensac/Leetcode-v2/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/kensac/Leetcode-v2/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/kensac/Leetcode-v2/tree/master/0271-encode-and-decode-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/kensac/Leetcode-v2/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/kensac/Leetcode-v2/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/kensac/Leetcode-v2/tree/master/0647-palindromic-substrings) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kensac/Leetcode-v2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kensac/Leetcode-v2/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/kensac/Leetcode-v2/tree/master/0872-leaf-similar-trees) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kensac/Leetcode-v2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/kensac/Leetcode-v2/tree/master/0261-graph-valid-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kensac/Leetcode-v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/kensac/Leetcode-v2/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kensac/Leetcode-v2/tree/master/0417-pacific-atlantic-water-flow) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kensac/Leetcode-v2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kensac/Leetcode-v2/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/kensac/Leetcode-v2/tree/master/0872-leaf-similar-trees) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kensac/Leetcode-v2/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/kensac/Leetcode-v2/tree/master/0261-graph-valid-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/kensac/Leetcode-v2/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/kensac/Leetcode-v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kensac/Leetcode-v2/tree/master/0417-pacific-atlantic-water-flow) |
@@ -494,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kensac/Leetcode-v2/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/kensac/Leetcode-v2/tree/master/0271-encode-and-decode-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/kensac/Leetcode-v2/tree/master/0729-my-calendar-i) |
 | [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
 ## Data Stream
