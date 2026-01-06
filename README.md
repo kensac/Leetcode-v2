@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kensac/Leetcode-v2/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/kensac/Leetcode-v2/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kensac/Leetcode-v2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/kensac/Leetcode-v2/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/kensac/Leetcode-v2/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/kensac/Leetcode-v2/tree/master/0682-baseball-game) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/kensac/Leetcode-v2/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kensac/Leetcode-v2/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/kensac/Leetcode-v2/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kensac/Leetcode-v2/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/kensac/Leetcode-v2/tree/master/0271-encode-and-decode-strings) |
