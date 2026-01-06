@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kensac/Leetcode-v2/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kensac/Leetcode-v2/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kensac/Leetcode-v2/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/kensac/Leetcode-v2/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/kensac/Leetcode-v2/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/kensac/Leetcode-v2/tree/master/0721-accounts-merge) |
 | [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/kensac/Leetcode-v2/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/kensac/Leetcode-v2/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/kensac/Leetcode-v2/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kensac/Leetcode-v2/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/kensac/Leetcode-v2/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/kensac/Leetcode-v2/tree/master/0721-accounts-merge) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kensac/Leetcode-v2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kensac/Leetcode-v2/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/kensac/Leetcode-v2/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
