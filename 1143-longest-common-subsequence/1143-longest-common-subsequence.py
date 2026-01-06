@@ -9,7 +9,7 @@ class Solution:
                 else:
                     dp[i][j] = max(dp[i][j - 1], dp[i - 1][j])
         
-        print(dp)
+        #print(dp)
         return dp[-1][-1]
 
         
