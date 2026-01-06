@@ -6,10 +6,10 @@ class MedianFinder:
         self.upper_min = []
 
     def addNum(self, num: int) -> None:
-        if num > self.findMedian():
-            heappush(self.upper_min, num)
-        else:
-            heappush_max(self.lower_max, num) 
+        heappush_max(self.lower_max, num)
+        if self.upper_min and self.lower_max[0] > self.upper_min[0]:
+            temp = heappop_max(self.lower_max)
+            heappush(self.upper_min, temp)
 
         if len(self.lower_max) - len(self.upper_min) > 1:
             temp = heappop_max(self.lower_max)
