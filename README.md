@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kensac/Leetcode-v2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kensac/Leetcode-v2/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/kensac/Leetcode-v2/tree/master/0872-leaf-similar-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/kensac/Leetcode-v2/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/kensac/Leetcode-v2/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/kensac/Leetcode-v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kensac/Leetcode-v2/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/kensac/Leetcode-v2/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/kensac/Leetcode-v2/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/kensac/Leetcode-v2/tree/master/0721-accounts-merge) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kensac/Leetcode-v2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kensac/Leetcode-v2/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/kensac/Leetcode-v2/tree/master/0872-leaf-similar-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/kensac/Leetcode-v2/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -505,4 +508,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kensac/Leetcode-v2/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kensac/Leetcode-v2/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kensac/Leetcode-v2/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
