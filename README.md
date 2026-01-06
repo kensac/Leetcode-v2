@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kensac/Leetcode-v2/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kensac/Leetcode-v2/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/kensac/Leetcode-v2/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/kensac/Leetcode-v2/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/kensac/Leetcode-v2/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/kensac/Leetcode-v2/tree/master/0747-min-cost-climbing-stairs) |
@@ -536,4 +537,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/kensac/Leetcode-v2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kensac/Leetcode-v2/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/kensac/Leetcode-v2/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
