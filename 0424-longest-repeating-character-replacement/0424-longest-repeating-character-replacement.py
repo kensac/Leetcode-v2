@@ -8,12 +8,13 @@ class Solution:
 
         for r in range(len(s)):
             count[s[r]] += 1
+            # We don't care about recomputing this every cycle because we already have a maxf value where this works, if we find a new longer sequence we can deal with it there
             max_f = max(max_f, count[s[r]])
 
             while (r - l + 1) - max_f > k:
                 count[s[l]] -= 1
                 l += 1
-            
+
             res = max(res, (r - l + 1))
-        
+
         return res
