@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/kensac/Leetcode-v2/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kensac/Leetcode-v2/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/kensac/Leetcode-v2/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/kensac/Leetcode-v2/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/kensac/Leetcode-v2/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/kensac/Leetcode-v2/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/kensac/Leetcode-v2/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kensac/Leetcode-v2/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/kensac/Leetcode-v2/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/kensac/Leetcode-v2/tree/master/0721-accounts-merge) |
 | [0917-boats-to-save-people](https://github.com/kensac/Leetcode-v2/tree/master/0917-boats-to-save-people) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/kensac/Leetcode-v2/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/kensac/Leetcode-v2/tree/master/0134-gas-station) |
 | [0253-meeting-rooms-ii](https://github.com/kensac/Leetcode-v2/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/kensac/Leetcode-v2/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/kensac/Leetcode-v2/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/kensac/Leetcode-v2/tree/master/0917-boats-to-save-people) |
 ## Binary Search
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kensac/Leetcode-v2/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kensac/Leetcode-v2/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/kensac/Leetcode-v2/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/kensac/Leetcode-v2/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/kensac/Leetcode-v2/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kensac/Leetcode-v2/tree/master/0803-cheapest-flights-within-k-stops) |
