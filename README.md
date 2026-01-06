@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/kensac/Leetcode-v2/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/kensac/Leetcode-v2/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/kensac/Leetcode-v2/tree/master/0721-accounts-merge) |
+| [1143-longest-common-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/kensac/Leetcode-v2/tree/master/1894-merge-strings-alternately) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/kensac/Leetcode-v2/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/kensac/Leetcode-v2/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kensac/Leetcode-v2/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/1250-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
