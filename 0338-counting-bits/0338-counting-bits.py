@@ -1,11 +1,9 @@
 class Solution:
     def countBits(self, n: int) -> List[int]:
-        def hammingWeight(n: int) -> int:
-            count = 0
-            while n:
-                count += n & 1
-                n >>= 1
-            return count
+        dp = [0] * (n + 1)
+
+        for i in range(n + 1):
+            # i >> 1 is i//2
+            dp[i] = dp[i >> 1] + (i & 1)
         
-        return [hammingWeight(i) for i in range(n + 1)]
-        
+        return dp
