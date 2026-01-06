@@ -6,6 +6,6 @@ class Solution:
             bit = n & 1
             n >>= 1
             # the idea is to place this directly how many space behind we need
-            rev += bit << power
+            rev |= bit << power
             power -= 1
         return rev
