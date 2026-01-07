@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kensac/Leetcode-v2/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kensac/Leetcode-v2/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kensac/Leetcode-v2/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kensac/Leetcode-v2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kensac/Leetcode-v2/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kensac/Leetcode-v2/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kensac/Leetcode-v2/tree/master/0088-merge-sorted-array) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kensac/Leetcode-v2/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kensac/Leetcode-v2/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/kensac/Leetcode-v2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kensac/Leetcode-v2/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/kensac/Leetcode-v2/tree/master/0140-word-break-ii) |
 ## Shortest Path
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kensac/Leetcode-v2/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/kensac/Leetcode-v2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kensac/Leetcode-v2/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/kensac/Leetcode-v2/tree/master/0338-counting-bits) |
