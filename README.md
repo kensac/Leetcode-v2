@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/kensac/Leetcode-v2/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/kensac/Leetcode-v2/tree/master/0747-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/kensac/Leetcode-v2/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/kensac/Leetcode-v2/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/kensac/Leetcode-v2/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/kensac/Leetcode-v2/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/1036-rotting-oranges) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/kensac/Leetcode-v2/tree/master/0729-my-calendar-i) |
 | [0778-swim-in-rising-water](https://github.com/kensac/Leetcode-v2/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/kensac/Leetcode-v2/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/kensac/Leetcode-v2/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kensac/Leetcode-v2/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
