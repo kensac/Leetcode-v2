@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kensac/Leetcode-v2/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kensac/Leetcode-v2/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kensac/Leetcode-v2/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/kensac/Leetcode-v2/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/kensac/Leetcode-v2/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/kensac/Leetcode-v2/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/kensac/Leetcode-v2/tree/master/0721-accounts-merge) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kensac/Leetcode-v2/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kensac/Leetcode-v2/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kensac/Leetcode-v2/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/kensac/Leetcode-v2/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/kensac/Leetcode-v2/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/kensac/Leetcode-v2/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kensac/Leetcode-v2/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/kensac/Leetcode-v2/tree/master/0355-design-twitter) |
 | [0744-network-delay-time](https://github.com/kensac/Leetcode-v2/tree/master/0744-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kensac/Leetcode-v2/tree/master/0778-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kensac/Leetcode-v2/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/kensac/Leetcode-v2/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/kensac/Leetcode-v2/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kensac/Leetcode-v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/kensac/Leetcode-v2/tree/master/0355-design-twitter) |
 | [0729-my-calendar-i](https://github.com/kensac/Leetcode-v2/tree/master/0729-my-calendar-i) |
 | [0981-time-based-key-value-store](https://github.com/kensac/Leetcode-v2/tree/master/0981-time-based-key-value-store) |
 | [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
