@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/kensac/Leetcode-v2/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/kensac/Leetcode-v2/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kensac/Leetcode-v2/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kensac/Leetcode-v2/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kensac/Leetcode-v2/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kensac/Leetcode-v2/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/kensac/Leetcode-v2/tree/master/0217-contains-duplicate) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kensac/Leetcode-v2/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/kensac/Leetcode-v2/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/kensac/Leetcode-v2/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kensac/Leetcode-v2/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/kensac/Leetcode-v2/tree/master/0292-nim-game) |
 ## String
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kensac/Leetcode-v2/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kensac/Leetcode-v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kensac/Leetcode-v2/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kensac/Leetcode-v2/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/kensac/Leetcode-v2/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/kensac/Leetcode-v2/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/kensac/Leetcode-v2/tree/master/0344-reverse-string) |
