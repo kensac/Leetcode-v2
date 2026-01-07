@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kensac/Leetcode-v2/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/kensac/Leetcode-v2/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/kensac/Leetcode-v2/tree/master/0917-boats-to-save-people) |
+| [0994-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/kensac/Leetcode-v2/tree/master/1046-max-consecutive-ones-iii) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/kensac/Leetcode-v2/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/kensac/Leetcode-v2/tree/master/0744-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kensac/Leetcode-v2/tree/master/0778-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kensac/Leetcode-v2/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/1036-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kensac/Leetcode-v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/kensac/Leetcode-v2/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/kensac/Leetcode-v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/kensac/Leetcode-v2/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/1036-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kensac/Leetcode-v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1730-shortest-path-to-get-food](https://github.com/kensac/Leetcode-v2/tree/master/1730-shortest-path-to-get-food) |
