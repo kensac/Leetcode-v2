@@ -3,35 +3,34 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        ROWS = len(board)
-        COLS = len(board[0])
+        edges = deque([])
+        for i in range(len(board)):
+            for j in range(len(board[0])):
+                if board[i][j] == "O" and (
+                    i == 0 or j == 0 or i == len(board) - 1 or j == len(board[0]) - 1
+                ):
+                    board[i][j] = "E"
+                    edges.append((i, j))
 
-        def dfs(row, col):
-            if board[row][col] != "O":
-                return
-            board[row][col] = "E"
-            if col < COLS - 1:
-                dfs(row, col + 1)
-            if row < ROWS - 1:
-                dfs(row + 1, col)
-            if col > 0:
-                dfs(row, col - 1)
-            if row > 0:
-                dfs(row - 1, col)
+        while edges:
+            x, y = edges.popleft()
 
-        border_cells = []
+            for new_x, new_y in [(x + 1, y), (x - 1, y), (x, y + 1), (x, y - 1)]:
+                if not 0 <= new_x < len(board):
+                    continue
 
-        for i in range(ROWS):
-            for j in range(COLS):
-                if i == 0 or j == 0 or i == ROWS - 1 or j == COLS - 1:
-                    border_cells.append((i, j))
+                if not 0 <= new_y < len(board[0]):
+                    continue
 
-        for i, j in border_cells:
-            dfs(i, j)
-        
-        for i in range(ROWS):
-            for j in range(COLS):
-                if board[i][j] == "O":
-                    board[i][j] = "X"
+                if board[new_x][new_y] != "O":
+                    continue
+
+                board[new_x][new_y] = "E"
+                edges.append((new_x, new_y))
+
+        for i in range(len(board)):
+            for j in range(len(board[0])):
                 if board[i][j] == "E":
                     board[i][j] = "O"
+                elif board[i][j] == "O":
+                    board[i][j] = "X"
