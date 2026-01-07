@@ -7,7 +7,7 @@ class Solution:
             return hours <= h
 
         left = 1
-        right = sum(piles)
+        right = max(piles)
 
         """
               L M    R
