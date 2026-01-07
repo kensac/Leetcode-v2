@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kensac/Leetcode-v2/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kensac/Leetcode-v2/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kensac/Leetcode-v2/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kensac/Leetcode-v2/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kensac/Leetcode-v2/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kensac/Leetcode-v2/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/kensac/Leetcode-v2/tree/master/0088-merge-sorted-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kensac/Leetcode-v2/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/kensac/Leetcode-v2/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kensac/Leetcode-v2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kensac/Leetcode-v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/0300-longest-increasing-subsequence) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kensac/Leetcode-v2/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kensac/Leetcode-v2/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kensac/Leetcode-v2/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kensac/Leetcode-v2/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kensac/Leetcode-v2/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kensac/Leetcode-v2/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/kensac/Leetcode-v2/tree/master/0130-surrounded-regions) |
