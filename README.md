@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-shortest-path-to-get-food](https://github.com/kensac/Leetcode-v2/tree/master/1730-shortest-path-to-get-food) |
 | [2058-concatenation-of-array](https://github.com/kensac/Leetcode-v2/tree/master/2058-concatenation-of-array) |
 | [2158-amount-of-new-area-painted-each-day](https://github.com/kensac/Leetcode-v2/tree/master/2158-amount-of-new-area-painted-each-day) |
+| [2402-meeting-rooms-iii](https://github.com/kensac/Leetcode-v2/tree/master/2402-meeting-rooms-iii) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/kensac/Leetcode-v2/tree/master/0721-accounts-merge) |
 | [0981-time-based-key-value-store](https://github.com/kensac/Leetcode-v2/tree/master/0981-time-based-key-value-store) |
 | [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
+| [2402-meeting-rooms-iii](https://github.com/kensac/Leetcode-v2/tree/master/2402-meeting-rooms-iii) |
 | [3825-apply-substitutions](https://github.com/kensac/Leetcode-v2/tree/master/3825-apply-substitutions) |
 ## Math
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kensac/Leetcode-v2/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/kensac/Leetcode-v2/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/kensac/Leetcode-v2/tree/master/2058-concatenation-of-array) |
+| [2402-meeting-rooms-iii](https://github.com/kensac/Leetcode-v2/tree/master/2402-meeting-rooms-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/kensac/Leetcode-v2/tree/master/0853-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/kensac/Leetcode-v2/tree/master/0917-boats-to-save-people) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/kensac/Leetcode-v2/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [2402-meeting-rooms-iii](https://github.com/kensac/Leetcode-v2/tree/master/2402-meeting-rooms-iii) |
 ## Stack
 |  |
 | ------- |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kensac/Leetcode-v2/tree/master/0778-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kensac/Leetcode-v2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
+| [2402-meeting-rooms-iii](https://github.com/kensac/Leetcode-v2/tree/master/2402-meeting-rooms-iii) |
 ## Quickselect
 |  |
 | ------- |
