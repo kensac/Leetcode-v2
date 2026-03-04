@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/kensac/Leetcode-v2/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kensac/Leetcode-v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/kensac/Leetcode-v2/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kensac/Leetcode-v2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1730-shortest-path-to-get-food](https://github.com/kensac/Leetcode-v2/tree/master/1730-shortest-path-to-get-food) |
 | [2058-concatenation-of-array](https://github.com/kensac/Leetcode-v2/tree/master/2058-concatenation-of-array) |
 | [2158-amount-of-new-area-painted-each-day](https://github.com/kensac/Leetcode-v2/tree/master/2158-amount-of-new-area-painted-each-day) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/kensac/Leetcode-v2/tree/master/1036-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kensac/Leetcode-v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kensac/Leetcode-v2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1730-shortest-path-to-get-food](https://github.com/kensac/Leetcode-v2/tree/master/1730-shortest-path-to-get-food) |
 ## Backtracking
 |  |
