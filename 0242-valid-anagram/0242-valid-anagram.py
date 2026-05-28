@@ -1,11 +1,11 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        counter = defaultdict(int)
+        counter = {}
 
         for char in s:
-            counter[char] += 1
+            counter[char] = counter.get(char, 0) + 1
         
         for char in t:
-            counter[char] -= 1
+            counter[char] = counter.get(char, 0) - 1
         
-        return all(i == 0 for i in counter.values())
+        return all(count == 0 for count in counter.values())
