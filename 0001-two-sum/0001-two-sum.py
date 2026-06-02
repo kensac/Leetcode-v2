@@ -4,5 +4,6 @@ class Solution:
 
         for i, num in enumerate(nums):
             if num in num_index_map:
-                return [num_index_map[num], i]
+                return [i, num_index_map[num]]
             num_index_map[target - num] = i
+        
