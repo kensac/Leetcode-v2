@@ -1,40 +1,49 @@
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-        rotten_oranges = []
-        fresh = 0
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
-                if grid[i][j] == 2:
-                    rotten_oranges.append((i, j))
-                if grid[i][j] == 1:
-                    fresh += 1
-        if not fresh:
+        EMPTY_CELL = 0
+        FRESH_ORANGE = 1
+        ROTTEN_ORANGE = 2
+
+        DIRS = [(1,0), (0,1), (-1, 0), (0, -1)]
+        n = len(grid)
+        m = len(grid[0])
+
+        queue = deque([])
+        fresh_oranges = 0 # 6
+
+        first_rotten_oranges = [] # [(0, 0)]
+        for i in range(n):
+            for j in range(m):
+                orange = grid[i][j]
+                if orange == FRESH_ORANGE:
+                    fresh_oranges += 1
+                elif orange == ROTTEN_ORANGE:
+                    first_rotten_oranges.append((i, j))
+
+        if first_rotten_oranges:
+            queue.append(first_rotten_oranges)
+        
+        if fresh_oranges == 0:
             return 0
         
         time = -1
-        rotten_oranges = deque(rotten_oranges)
-        while rotten_oranges:
-            newly_rotten = []
+        
+        while queue: # [[(0, 0)]]
+            # grid = [[0,1,1],[1,1,0],[0,1,1]]
+            print(queue)
+            cur_level = queue.popleft() # [(0, 0)]
+            new_rotten_oranges = []
+            for i, j in cur_level:
+                grid[i][j] = EMPTY_CELL
+                for dx, dy in DIRS:
+                    new_x, new_y = i + dx, j + dy
+                    if 0 <= new_x < n and 0 <= new_y < m and grid[new_x][new_y] == FRESH_ORANGE:
+                        grid[new_x][new_y] = ROTTEN_ORANGE
+                        fresh_oranges -= 1
+                        new_rotten_oranges.append((new_x, new_y))
             time += 1
-            for x, y in rotten_oranges:
-                for new_x, new_y in [(x + 1, y), (x - 1, y), (x, y + 1), (x, y - 1)]:
-                    if not 0 <= new_x < len(grid):
-                        continue
-                    if not 0 <= new_y < len(grid[0]):
-                        continue
-                    if grid[new_x][new_y] != 1:
-                        continue
-                    grid[new_x][new_y] = 2
-                    newly_rotten.append((new_x, new_y))
-                grid[x][y] = 0
-
-            if newly_rotten:
-                rotten_oranges = newly_rotten
-            else:
-                rotten_oranges = []
-            
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
-                if grid[i][j] == 1:
-                    return -1
-        return time
+            if new_rotten_oranges:
+                queue.append(new_rotten_oranges)
+        print(fresh_oranges, time)
+        
+        return time if not fresh_oranges else -1
