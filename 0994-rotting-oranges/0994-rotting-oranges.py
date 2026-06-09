@@ -26,7 +26,7 @@ class Solution:
         if fresh_oranges == 0:
             return 0
         
-        time = -1
+        time = 0
         
         while queue: # [[(0, 0)]]
             # grid = [[0,1,1],[1,1,0],[0,1,1]]
@@ -41,9 +41,10 @@ class Solution:
                         grid[new_x][new_y] = ROTTEN_ORANGE
                         fresh_oranges -= 1
                         new_rotten_oranges.append((new_x, new_y))
-            time += 1
+            
             if new_rotten_oranges:
                 queue.append(new_rotten_oranges)
+                time += 1
         print(fresh_oranges, time)
         
         return time if not fresh_oranges else -1
