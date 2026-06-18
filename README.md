@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/kensac/Leetcode-v2/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kensac/Leetcode-v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/kensac/Leetcode-v2/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1472-design-browser-history](https://github.com/kensac/Leetcode-v2/tree/master/1472-design-browser-history) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kensac/Leetcode-v2/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1730-shortest-path-to-get-food](https://github.com/kensac/Leetcode-v2/tree/master/1730-shortest-path-to-get-food) |
 | [2058-concatenation-of-array](https://github.com/kensac/Leetcode-v2/tree/master/2058-concatenation-of-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/kensac/Leetcode-v2/tree/master/0682-baseball-game) |
 | [0853-car-fleet](https://github.com/kensac/Leetcode-v2/tree/master/0853-car-fleet) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/kensac/Leetcode-v2/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1472-design-browser-history](https://github.com/kensac/Leetcode-v2/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kensac/Leetcode-v2/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kensac/Leetcode-v2/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/kensac/Leetcode-v2/tree/master/0355-design-twitter) |
+| [1472-design-browser-history](https://github.com/kensac/Leetcode-v2/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -563,11 +566,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/kensac/Leetcode-v2/tree/master/0355-design-twitter) |
 | [0729-my-calendar-i](https://github.com/kensac/Leetcode-v2/tree/master/0729-my-calendar-i) |
 | [0981-time-based-key-value-store](https://github.com/kensac/Leetcode-v2/tree/master/0981-time-based-key-value-store) |
+| [1472-design-browser-history](https://github.com/kensac/Leetcode-v2/tree/master/1472-design-browser-history) |
 | [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kensac/Leetcode-v2/tree/master/0295-find-median-from-data-stream) |
+| [1472-design-browser-history](https://github.com/kensac/Leetcode-v2/tree/master/1472-design-browser-history) |
 | [2034-stock-price-fluctuation](https://github.com/kensac/Leetcode-v2/tree/master/2034-stock-price-fluctuation) |
 ## Ordered Set
 |  |
@@ -608,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/kensac/Leetcode-v2/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kensac/Leetcode-v2/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/kensac/Leetcode-v2/tree/master/0338-counting-bits) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/kensac/Leetcode-v2/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
