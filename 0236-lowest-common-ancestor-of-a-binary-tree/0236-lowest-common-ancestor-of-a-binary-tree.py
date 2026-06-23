@@ -7,21 +7,26 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        self.res = None
-
-        def recurse(node):
-            if not node:
-                return False
-            
-            left = recurse(node.left)
-            right = recurse(node.right)
-            if (left and right) or ((left or right) and (node == p or node == q)):
-                self.res = node
-            if node == p or node == q:
-                return True
-            return left or right
         
-        if root == q or root == q:
-            return root
-        recurse(root)
-        return self.res
+        queue = deque([root])
+        parent_map = {root: None}
+
+        while queue:
+            cur_node = queue.popleft()
+            if cur_node.left:
+                parent_map[cur_node.left] = cur_node
+                queue.append(cur_node.left)
+            
+            if cur_node.right:
+                parent_map[cur_node.right] = cur_node
+                queue.append(cur_node.right)
+        
+        ancestors = set()
+        while p:
+            ancestors.add(p)
+            p = parent_map[p]
+        
+        while q not in ancestors:
+            q = parent_map[q]
+        
+        return q
