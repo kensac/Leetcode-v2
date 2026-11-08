@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kensac/Leetcode-v2/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kensac/Leetcode-v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/kensac/Leetcode-v2/tree/master/0435-non-overlapping-intervals) |
+| [0528-random-pick-with-weight](https://github.com/kensac/Leetcode-v2/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/kensac/Leetcode-v2/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/kensac/Leetcode-v2/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/kensac/Leetcode-v2/tree/master/0695-max-area-of-island) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kensac/Leetcode-v2/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kensac/Leetcode-v2/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/kensac/Leetcode-v2/tree/master/0292-nim-game) |
+| [0528-random-pick-with-weight](https://github.com/kensac/Leetcode-v2/tree/master/0528-random-pick-with-weight) |
 ## String
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kensac/Leetcode-v2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kensac/Leetcode-v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/kensac/Leetcode-v2/tree/master/0300-longest-increasing-subsequence) |
+| [0528-random-pick-with-weight](https://github.com/kensac/Leetcode-v2/tree/master/0528-random-pick-with-weight) |
 | [0729-my-calendar-i](https://github.com/kensac/Leetcode-v2/tree/master/0729-my-calendar-i) |
 | [0778-swim-in-rising-water](https://github.com/kensac/Leetcode-v2/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/kensac/Leetcode-v2/tree/master/0875-koko-eating-bananas) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kensac/Leetcode-v2/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/kensac/Leetcode-v2/tree/master/0253-meeting-rooms-ii) |
+| [0528-random-pick-with-weight](https://github.com/kensac/Leetcode-v2/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/kensac/Leetcode-v2/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/kensac/Leetcode-v2/tree/master/1046-max-consecutive-ones-iii) |
 ## Union Find
@@ -627,4 +631,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kensac/Leetcode-v2/tree/master/0020-valid-parentheses) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/kensac/Leetcode-v2/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
